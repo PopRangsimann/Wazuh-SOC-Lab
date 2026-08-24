@@ -1,0 +1,43 @@
+# =====================================================================
+#  .gitignore — Wazuh SOC Lab
+#  Keeps secrets, credentials, and attack artifacts OUT of the repo.
+#  (This file only takes effect when you use Git on the command line.
+#   If you upload via the GitHub website, just don't select these files.)
+# =====================================================================
+
+# --- Secrets & credentials — NEVER commit these ---
+*.key
+*.pem
+*.pfx
+*credential*
+api_key*.txt
+secrets/
+
+# Commit the sanitized example instead of the real agent/manager config
+**/ossec.conf
+!**/ossec.conf.example
+
+# --- Attack artifacts ---
+passwords.txt
+wordlists/
+
+# --- Logs & alert data ---
+*.log
+alerts.json
+alerts.log
+
+# --- Large / binary lab captures (don't belong in git) ---
+*.pcap
+*.pcapng
+*.evtx
+*.ova
+*.vmdk
+*.vmx
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
