@@ -115,14 +115,3 @@ This SOC home lab project demonstrates how open-source tools can be combined to 
 Through threat-simulation exercises (such as brute-force attack detection), the lab validates that the system can not only ingest and correlate logs but also generate meaningful alerts — reflecting a realistic analyst workflow: detecting, investigating, and proposing defensive countermeasures.
 
 Beyond technical skills, this project reinforces core SOC analyst practices: log analysis, alert triage, rule tuning, and threat-hunting queries.
-
-**Note:** This project is for educational purposes only. Do not use these techniques for unauthorized activities.
-
-## 📄 Full Documentation
-
-Download the complete SOC Home Lab guide here:
-[📥 SOC_Home_Lab_Guide.pdf](docs/Soc_Home_LAB.pdf)
-
-## 📌 Connect with Me
-
-[LinkedIn](https://www.linkedin.com/in/golsaf-bensekhar-1b153b1ab/) · [Medium](https://medium.com/@golsafbensekhar)
