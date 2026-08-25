@@ -17,7 +17,7 @@ SIEM/XDR deployment and administration (Wazuh) · endpoint monitoring (Sysmon, W
 | 2 | Windows agent + Sysmon ingestion | ✅ Complete |
 | 3 | File Integrity Monitoring (FIM) | ✅ Complete |
 | 4 | Attack simulation (recon + SSH brute force) | ✅ Complete |
-| 5 | Custom detection rules | 🔄 In progress |
-| 6 | Suricata IDS/IPS integration | 📄 Documented — verify on current build |
+| 5 | Custom detection rules | ✅ Complete |
+| 6 | Suricata IDS/IPS integration | 🔄 In progress |
 | 7 | pfSense firewall integration | 📄 Documented — verify on current build |
 | – | VirusTotal enrichment | 📄 Documented — verify on current build |
