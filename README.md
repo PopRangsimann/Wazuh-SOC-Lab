@@ -25,7 +25,7 @@ SIEM/XDR deployment and administration (Wazuh) · endpoint monitoring (Sysmon, W
 | 5 | Custom detection rules | ✅ Complete |
 | 6 | Suricata IDS/IPS integration | 🔄 In progress |
 | 7 | pfSense firewall integration | 📄 Documented — verify on current build |
-| 8 | **Automated active response** | ✅ **Complete** |
+| 8 | **Automated active response** | ✅ Verified — attack disables account live |
 | – | VirusTotal enrichment | 📄 Documented — verify on current build |
 | – | SCA + Vulnerability Detection | ⏳ Planned |
 | – | Second attack scenario (MITRE ATT&CK mapped) | ⏳ Planned |
