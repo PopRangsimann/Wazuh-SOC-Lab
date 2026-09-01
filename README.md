@@ -27,7 +27,7 @@ SIEM/XDR deployment and administration (Wazuh) · endpoint monitoring (Sysmon, W
 | 7 | pfSense firewall integration | 📄 Documented — verify on current build |
 | 8 | **Automated active response** | ✅ Verified — attack disables account live |
 | – | VirusTotal enrichment | 📄 Documented — verify on current build |
-| – | SCA + Vulnerability Detection | ⏳ Planned |
+| – | SCA + Vulnerability Detection | ✅ Complete |
 | – | Second attack scenario (MITRE ATT&CK mapped) | ⏳ Planned |
 
 ---
